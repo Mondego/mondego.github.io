@@ -1,0 +1,14 @@
+# 1
+- domain_name: Code Search
+  domain_id: code_search
+# 2
+- domain_name: Code Clone
+  domain_id: code_clone
+
+# 3
+- domain_name: Empirical Study
+  domain_id: empirical_study
+
+# 4
+- domain_name: Technical Report
+  domain_id: technical_report

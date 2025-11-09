@@ -1,0 +1,19 @@
+# software
+- title: "Software Tittle"
+  authors: "Authors"
+  published: "Name"
+  year: 2025
+  type: software
+  pdf: ""
+  url: ""
+  doi: ""
+
+# dataset
+- title: "Dataset Tittle"
+  authors: "Authors"
+  published: "Name"
+  year: 2025
+  type: dataset
+  pdf: ""
+  url: ""
+  doi: ""

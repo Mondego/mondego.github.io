@@ -1,0 +1,36 @@
+# Conference
+- title: "Conference Paper"
+  authors: Conference Authors
+  booktitle: "Conference Name"
+  year: 2025
+  domain_id: code_search
+  type: Conference
+  pdf: ""
+  url: ""
+  doi: ""
+  code_link: ""
+
+
+# Journal
+- title: "Journal Paper"
+  authors: Journal Authors
+  booktitle: "Journal Name"
+  year: 2025
+  domain_id: code_search
+  type: Journal
+  pdf: ""
+  url: ""
+  doi: ""
+  code_link: ""
+ 
+# Book Chapter
+- title: "Book Chapter Name"
+  authors: Book Authors
+  booktitle: "Book Name"
+  year: 2025
+  domain_id: code_search
+  type: Book Chapter
+  pdf: ""
+  url: ""
+  doi: ""
+  code_link: ""
